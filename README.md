@@ -1,2 +1,2 @@
-# homebrew-ving
-homebrew tap for [ving](https://github.com/yittg/ving).
+# homebrew formula
+private homebrew formula repository.
